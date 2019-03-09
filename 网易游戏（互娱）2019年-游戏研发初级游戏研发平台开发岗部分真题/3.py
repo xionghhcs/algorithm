@@ -6,3 +6,4 @@ for _ in range(t):
     for _ in range(m):
         data.append(input().strip())
     word = input()
+    
